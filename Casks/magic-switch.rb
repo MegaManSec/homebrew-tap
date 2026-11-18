@@ -1,6 +1,6 @@
 cask "magic-switch" do
-  version "2.31.1"
-  sha256 "5dc0e5e8520bb3e730d5ab9eb39a41df15c01b5efdcbc3f4399d6e00ff2a7b6a"
+  version "2.32.0"
+  sha256 "e0c8620c8ec8f52af58ef7f6639f30b0f872efd7054f9431eaece8b75e4a87b7"
 
   url "https://github.com/MegaManSec/magic-switch/releases/download/v#{version}/app.zip"
   name "Magic Switch"
